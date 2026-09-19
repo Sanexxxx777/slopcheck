@@ -103,6 +103,15 @@ generated. Human writing keeps absorbing these habits, and people judging by fee
 do little better than chance. A finding means a pattern is present, and the
 patterns are worth removing whoever wrote them.
 
+## Where it does not belong
+
+It is calibrated for prose someone will read: posts, READMEs, client copy, release
+notes. Pointed at a dense internal reference file, the kind with a bold label on
+every list item because that is what makes it scannable, it reports a wall of
+`bold-label-list` findings that are all correct and none of them useful.
+
+Run it on what you publish, not on your own notes.
+
 ## Credit
 
 Pattern catalogue adapted from
